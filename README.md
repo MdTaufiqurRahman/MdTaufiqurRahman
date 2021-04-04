@@ -1,4 +1,4 @@
-### Hi 👋, there, I'm Taufiqur Rahman
+<h1 align="center">Hi 👋, there! I am Taufiqur Rahman.<br> Nice to meet you!</h1>
 
 ### Welcome TO my my GitHub's World
 ### I am a Programmer || Developer || Software Engineer !! 💻
@@ -20,8 +20,6 @@
 <a href="https://www.instagram.com/taufiqur_anik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="taufiqur_anik" height="30" width="40" /></a>
  <a href="https://medium.com/@taufiqur.anik.bd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="gggg" height="30" width="40" /></a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools:
 
