@@ -1,7 +1,7 @@
 ### Hi there, I'm Taufiqur Rahman - 👋
 
 ### Welcome TO my my GitHub's World
-## I'm Web Developer and Software Engineer!! 💻
+## I am a Programmer || Developer || Software Engineer !! 💻
 ---
 
 - 💻 I'm passionate about what I learn and apply them into real life.
