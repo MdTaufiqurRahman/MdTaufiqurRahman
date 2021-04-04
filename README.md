@@ -11,7 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to explore the world.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-taufiqur-rahman-a5bb10197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md-taufiqur-rahman-a5bb10197/" height="30" width="40" /></a>
