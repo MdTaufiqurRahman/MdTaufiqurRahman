@@ -3,10 +3,13 @@
 ### Welcome TO my my GitHub's World
 ## I am a Programmer || Developer || Software Engineer !! 💻
 
-- 📫 How to reach me taufiqur.anik.bd@gmail.com
+
 - 💻 I'm passionate about what I learn and apply them into real life.
-- ⌚ 2021 Goals: Want to be Full stack web developer.
-- 👯 I’m looking to collaborate with other and Contribute more project.
+- 🔭 I’m currently working on CSE499 Project.
+- ⌚ I'm currently Learing Full stack web development.
+- 👯 I’m looking to collaborate on Full Stack web development.
+- 💬 Ask me about Frontend Technologies.
+- 📫 How to reach me taufiqur.anik.bd@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to explore the world.
 
@@ -16,7 +19,7 @@
 <a href="https://www.linkedin.com/in/md-taufiqur-rahman-a5bb10197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md-taufiqur-rahman-a5bb10197/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/taufiqur.anik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="taufiqur.anik/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/taufiqur_anik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="taufiqur_anik" height="30" width="40" /></a>
- <a href="https://medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="gggg" height="30" width="40" /></a>
+ <a href="https://medium.com/@taufiqur.anik.bd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="gggg" height="30" width="40" /></a>
 </p>
 
 ---
@@ -37,4 +40,6 @@
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/> </a> </p
+ 
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdtaufiqurrahman&show_icons=true&locale=en" alt="mdtaufiqurrahman" /></p>
 
