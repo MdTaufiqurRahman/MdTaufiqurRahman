@@ -1,8 +1,7 @@
 ### Hi 👋, there, I'm Taufiqur Rahman
 
 ### Welcome TO my my GitHub's World
-## I am a Programmer || Developer || Software Engineer !! 💻
-
+### I am a Programmer || Developer || Software Engineer !! 💻
 
 - 💻 I'm passionate about what I learn and apply them into real life.
 - 🔭 I’m currently working on CSE499 Project.
@@ -39,8 +38,9 @@
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/> </a> </p
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/> </a> </p>
  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdtaufiqurrahman&show_icons=true&locale=en" alt="mdtaufiqurrahman" /></p>
+ ### GitHub Analytics
+ <p>&nbsp;<img align="center" color="red" src="https://github-readme-stats.vercel.app/api?username=mdtaufiqurrahman&show_icons=true&locale=en" alt="mdtaufiqurrahman" /></p>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdtaufiqurrahman&show_icons=true&locale=en&layout=compact" alt="mdtaufiqurrahman" /></p>
 
