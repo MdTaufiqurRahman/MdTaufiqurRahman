@@ -2,7 +2,6 @@
 
 ### Welcome TO my my GitHub's World
 ### I am a Programmer || Developer || Software Engineer !! 💻
-
 - 💻 I'm passionate about what I learn and apply them into real life.
 - 🔭 I’m currently working on CSE499 Project.
 - ⌚ I'm currently Learing Full stack web development.
