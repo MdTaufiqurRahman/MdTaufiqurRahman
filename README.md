@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, there! I am Taufiqur Rahman.<br> Nice to meet you! 😀 </h1>
 
-### Welcome TO my my GitHub's World 😎
+### Welcome To my GitHub's World 😎
 ### I am a Programmer || Developer || Software Engineer !! 💻
 - 💻 I'm passionate about what I learn and apply them into real life.
 - 🔭 I’m currently working on CSE499 Project.
