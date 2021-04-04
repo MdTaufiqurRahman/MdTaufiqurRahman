@@ -4,6 +4,7 @@
 ## I am a Programmer || Developer || Software Engineer !! 💻
 ---
 
+- 📫 How to reach me taufiqur.anik.bd@gmail.com
 - 💻 I'm passionate about what I learn and apply them into real life.
 - ⌚ 2021 Goals: Want to be Full stack web developer.
 - 👯 I’m looking to collaborate with other and Contribute more project.
