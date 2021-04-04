@@ -41,6 +41,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/> </a> </p>
  
  ### GitHub Analytics
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdtaufiqurrahman&show_icons=true&locale=en&layout=compact" alt="mdtaufiqurrahman" />
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdtaufiqurrahman&show_icons=true&locale=en&layout=compact" alt="mdtaufiqurrahman" />
  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdtaufiqurrahman&show_icons=true&locale=en" alt="mdtaufiqurrahman" /></p>
 
