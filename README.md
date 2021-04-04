@@ -2,7 +2,6 @@
 
 ### Welcome TO my my GitHub's World
 ## I am a Programmer || Developer || Software Engineer !! 💻
----
 
 - 📫 How to reach me taufiqur.anik.bd@gmail.com
 - 💻 I'm passionate about what I learn and apply them into real life.
