@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, there! I am Taufiqur Rahman.<br> Nice to meet you! 😀 </h1>
 
 ### Welcome To my GitHub's World 😎
-### I am a Programmer | Web Developer | Engineer !! 💻
+### I am a Programmer | Full Stack Developer | Engineer !! 💻
 - 💻 I'm passionate about what I learn and apply them into real life.
-- 🔭 I’m currently working on CSE499 Project.
-- ⌚ I'm currently Learing Full stack web development.
+- ⌚ I'm currently work as Junior software Engineer.
 - 👯 I’m looking to collaborate on Full Stack web development.
-- 💬 Ask me about Frontend Technologies.
+- 💬 Ask me about Full Stack Technologies.
 - 📫 How to reach me taufiqur.anik.bd@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to explore the world.
 
 <h3 align="left">🤝 Connect with me:</h3>
