@@ -10,13 +10,11 @@
 - ⚡ Fun fact: I love to explore the world.
 
 <h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-taufiqur-rahman-a5bb10197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="md-taufiqur-rahman-a5bb10197/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/taufiqur.anik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="taufiqur.anik/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/taufiqur_anik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="taufiqur_anik" height="30" width="40" /></a>
- <a href="https://medium.com/@taufiqur.anik.bd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="gggg" height="30" width="40" /></a>
-</p>
+<h3> :coffee: &emsp; Connect with me!</h3>
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taufiqur.anik) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-taufiqur-rahman-a5bb10197/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufiqur.anik.bd@gmail.com)
+
+<h3>📲 +88 017 1800 3362 </h3>
 
 ### 🛠️ Languages and Tools:
 
