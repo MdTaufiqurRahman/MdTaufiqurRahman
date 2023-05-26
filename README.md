@@ -34,3 +34,6 @@
 <a href='https://github.com/mdtaufiqurrahman'>
   <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdtaufiqurrahman&theme=merko&layout=compact&hide=python,powershell'>
 </a>
+<a href='https://github.com/mdtaufiqurrahman'>
+  <img align='right' width='45%' src='https://github-readme-stats.vercel.app/api?username=mdtaufiqurrahman&theme=merko&show_icons=true'>
+</a>
