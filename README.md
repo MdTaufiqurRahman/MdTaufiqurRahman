@@ -32,5 +32,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <a href='https://github.com/mdtaufiqurrahman'>
-  <img align='left' width='75%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdtaufiqurrahman&theme=merko&layout=compact&hide=python,powershell'>
+  <img align='left' width='75%' height='20%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdtaufiqurrahman&theme=merko&layout=compact&hide=python,powershell'>
 </a>
