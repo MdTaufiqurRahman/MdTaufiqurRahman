@@ -3,7 +3,7 @@
 ### Welcome To my GitHub's World 😎
 ### I am a Programmer | Software Developer | Frontend Engineer !! 💻
 - 💻 I'm passionate about what I learn and apply them into real life.
-- ⌚ I'm currently work as Junior Frontend software Engineer at iBOS Limited.
+- ⌚ I'm currently work as Engineer l (Software) at Neural Semiconductor Limited.
 - 👯 I’m looking to collaborate on Full Stack web development.
 - 💬 Ask me about Full Stack Technologies.
 - 📫 How to reach me taufiqur.anik.bd@gmail.com
