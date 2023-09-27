@@ -2,9 +2,9 @@
 
 ### Welcome To my GitHub's World 😎
 ### I am a Programmer | Software Developer | Frontend Engineer !! 💻
-- 💻 I'm passionate about what I learn and apply them into real life.
-- ⌚ I'm currently work as Engineer l (Software) at Neural Semiconductor Limited.
-- 👯 I’m looking to collaborate on Full Stack web development.
+- 💻 I'm passionate about what I learn and apply them to real life.
+- ⌚ I work as a Software Engineer l at Neural Semiconductor Limited.
+- 👯 I’m looking to collaborate on Full Stack development or Frontend development.
 - 💬 Ask me about Full Stack Technologies.
 - 📫 How to reach me taufiqur.anik.bd@gmail.com
 - ⚡ Fun fact: I love to explore the world.
