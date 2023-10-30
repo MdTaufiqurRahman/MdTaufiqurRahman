@@ -11,7 +11,7 @@
 
 <h3 align="left">🤝 Connect with me!</h3>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taufiqur.anik) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-taufiqur-rahman-a5bb10197/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufiqur.anik.bd@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/taufiqur.anik) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-taufiqur-rahman-a5bb10197/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taufiqur_anik/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taufiqur.anik.bd@gmail.com)
 
 <h3>📲 +88 017 1800 3362 </h3>
 
@@ -30,7 +30,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
  
 ### ⚙️ &nbsp;GitHub Analytics
-<p>Please keep in mind these are just my most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
+<p>Please keep in mind these are just the most used languages within my Repos on GitHub and do not indicate my skill in the language.</p>
 <a href='https://github.com/mdtaufiqurrahman'>
   <img align='left' width='45%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mdtaufiqurrahman&theme=merko&layout=compact&hide=python,powershell'>
 </a>
