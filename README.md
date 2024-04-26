@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, Nice to see you. 😀 </h1>
 
 ### Welcome To my GitHub's World 😎
-### I am a Programmer | Software Developer | Frontend Engineer !! 💻
+### I am a Programmer | Software Engineer | Frontend Engineer !! 💻
 - 💻 I'm passionate about what I learn and apply them to real life.
 - ⌚ I work as a Software Engineer l at Neural Semiconductor Limited.
 - 👯 I’m looking to collaborate on Full Stack development or Frontend development.
